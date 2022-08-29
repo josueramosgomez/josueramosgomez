@@ -10,7 +10,7 @@ https://github.com/josueramosgomez/data_science/tree/main/NLP%20disasters%20(twi
 Here is the link to the leaderboard of the NLP competition:
 https://www.kaggle.com/competitions/nlp-getting-started/leaderboard
 
-💥🚗 The last proyect I was working was very interesting Data project to predict harmfulness of vehicles' accidents in Madrid starting from general data of the accident context. Have a look at it! 
+💥🚗 The last proyect I was working was a very interesting Data project to predict harmfulness of vehicles' accidents in Madrid starting from general data of the accident context. Have a look at it! 
 https://github.com/josueramosgomez/data_science/tree/main/practica%20accidentalidad%202020-2021
 
 🌿 ALL projects that are/will be uploaded are personal ones and self coded.
